@@ -20,7 +20,7 @@ export default function Home() {
           <h2 className='text-lg text-white   text-center'>What ever you want as header or navbar goes here</h2>
         </nav>
 
-        <div className='w-full h-auto min-h-[calc(100vh-5rem)]  '>
+        <div className='w-full h-auto min-h-[calc(100vh-8rem)]  '>
           <FormWrapper/>
         </div>
      </main>

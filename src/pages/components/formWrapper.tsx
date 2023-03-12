@@ -20,7 +20,7 @@ const FormWrapper = () => {
   }
   return (
     <section className="flex flex-col text-white flex-wrap  ">
-      <div className="w-full  max-w-xl flex flex-col shadow-xl min-h-[calc(100vh-8rem)] mx-auto h-full pt-10">
+      <div className="w-full  max-w-xl flex flex-col shadow-xl min-h-[calc(100vh-10rem)] mx-auto h-full pt-10">
        
       {step==1&&  <Step1 />}
       {step==2&&  <Step2 />}
